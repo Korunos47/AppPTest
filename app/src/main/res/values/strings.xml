@@ -1,7 +1,23 @@
 <resources>
-    <string name="app_name">mobile-test</string>
+    <string name="app_name">AppPlusMobileTest</string>
     <string name="userAvatar">userAvatar</string>
     <string name="firstnameExample">Max</string>
     <string name="lastnameExample">Mustermann</string>
     <string name="emailExample">max.mustermann@test.de</string>
+    <string name="dummytext">DummyText</string>
+    <string name="nameInTextView">Name:</string>
+    <string name="companyInTextView">Firma:</string>
+    <string name="emailInTextView">Email:</string>
+    <string name="websiteInTextView">Webseite:</string>
+    <string name="birthdateInTextView">Geburtsdatum:</string>
+    <string name="workInTextView">Geschäftlich:</string>
+    <string name="homeInTextView">Privat:</string>
+    <string name="mobileInTextView">Mobil:</string>
+    <string name="streetInTextView">Straße:</string>
+    <string name="cityInTextView">Stadt:</string>
+    <string name="stateInTextView">Bundesland:</string>
+    <string name="countryInTextView">Land:</string>
+    <string name="zipInTextView">PLZ:</string>
+    <string name="longitudeInTextView">Breitengrad:</string>
+    <string name="latitudeInTextView">Längengrad:</string>
 </resources>
